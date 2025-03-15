@@ -34,8 +34,8 @@ li {
 }
 
 a {
-	margin: 0;
 	display: block;
+	margin: 0;
 	padding: 5px 15px;
 	color: white;
 	text-decoration: none;
@@ -48,5 +48,3 @@ a:hover {
 	background-color: white;
 	color: #3498db;
 }
-
-/* ---------------------------------------------------- */
